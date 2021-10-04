@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/faceLogin/FaceAdd.java=gbk
+encoding//src/faceLogin/FaceMatch.java=gbk
+encoding//src/faceLogin/FaceSearch.java=gbk
+encoding//src/faceLogin/LoginServlet.java=gbk
+encoding//src/utils/FileUtil.java=gbk
+encoding//src/utils/GsonUtils.java=gbk
+encoding//src/utils/HttpUtil.java=gbk
